@@ -9,9 +9,12 @@ This can only work with figlet also and location also so first install them
 2. Extract the folder
 3. Open and run the command:
 4. ```bash
-   sudo apt install ./
+   sudo apt install ./rmtracks_1.0.deb
+   ```
+   OR You can also use dpkg as:
+   ```bash
+   dpkg -i rmtracks_1.0.deb
+   ```
+   The other Method is to Download by using commands
 ```bash
-curl -L -o app.zip https://github.com/USERNAME/REPOSITORY/archive/refs/heads/main.zip
-unzip app.zip
-cd REPOSITORY-main
-# Run your app here (example: python main.py)
+
