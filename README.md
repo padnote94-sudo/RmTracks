@@ -17,4 +17,10 @@ This can only work with figlet also and location also so first install them
    ```
    The other Method is to Download by using commands
 ```bash
-
+git clone https://github.com/padnote94-sudo/RmTracks.git
+cd RmTracks/
+sudo apt install ./rmtracks_1.0.deb
+```
+####At last run 
+```bash
+rmtracks
