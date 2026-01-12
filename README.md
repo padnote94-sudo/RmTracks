@@ -27,3 +27,4 @@ sudo apt install ./rmtracks_1.0.deb
 #### At last run 
 ```bash
 rmtracks
+![screenshot](https://raw.githubusercontent.com/padnote94-sudo/RmTracks/refs/heads/main/Screenshot_20260112_052722_Termux.jpg)
