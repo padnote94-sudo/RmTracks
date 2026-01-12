@@ -11,7 +11,7 @@ This can only work with figlet also and location also so first install them
 4. ```bash
    sudo apt install ./rmtracks_1.0.deb
    ```
-  # OR You can also use dpkg as:
+  ## OR You can also use dpkg as:
    ```bash
    dpkg -i rmtracks_1.0.deb
    ```
