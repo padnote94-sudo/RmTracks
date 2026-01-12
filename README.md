@@ -10,6 +10,7 @@ This can only work with figlet also and location also so first install them
 2. Extract the ZIP file and open folder
 3. Open and run the command:
 4. ```bash
+   sudo apt install figlet lolcat -y
    sudo apt install ./rmtracks_1.0.deb
    ```
   ### OR You can also use dpkg as:
@@ -22,9 +23,12 @@ This can only work with figlet also and location also so first install them
 ```bash
 git clone https://github.com/padnote94-sudo/RmTracks.git
 cd RmTracks/
+sudo apt install figlet lolcat -y
 sudo apt install ./rmtracks_1.0.deb
 ```
 #### At last run 
 ```bash
 rmtracks
+
+```
 ![screenshot](https://raw.githubusercontent.com/padnote94-sudo/RmTracks/refs/heads/main/Screenshot_20260112_052722_Termux.jpg)
