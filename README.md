@@ -16,6 +16,8 @@ This can only work with figlet also and location also so first install them
    ```bash
    dpkg -i rmtracks_1.0.deb
    ```
+![screenshot](https://raw.githubusercontent.com/padnote94-sudo/RmTracks/refs/heads/main/Screenshot_20260112_052312_Termux.jpg)
+
    The other Method is to Download by using commands
 ```bash
 git clone https://github.com/padnote94-sudo/RmTracks.git
